@@ -1,0 +1,3 @@
+Body : {"AccountId":"0019D00000INToLQAX","TypeOfProperty__c":"Condominium","TypeOfLoan__c":"Commercial Loan","PurposeOfLoan__c":"New Purchase","LeadType__c":"Formal","CustomerType__c":"Sole","SourceType__c":"Online","SourceSubType__c":"Organic","Status":"New"}
+ Loan Created successfully ! 50085000003xzLtAAI
+Newly created Enquiry 50085000003xzLtAAI

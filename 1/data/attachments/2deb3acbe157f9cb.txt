@@ -1,0 +1,3 @@
+ Loan Created successfully ! 50085000003xwuJAAQ
+ caseId 50085000003xwuJAAQ
+ Doc Collection URL "https://www.integration.propertyguru.com.sg/mortgage/application/documents?id=qZ6Dw%252B0QusF1X7RDtUy6cG1iFFKWZnueaDmsHhf7XlZR%252Bsz%252BpCBhjczqm5WJAivg"

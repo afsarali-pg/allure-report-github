@@ -1,0 +1,4 @@
+{
+  statusCode: 500,
+  message: "Cannot set property 'firstName' of undefined"
+}

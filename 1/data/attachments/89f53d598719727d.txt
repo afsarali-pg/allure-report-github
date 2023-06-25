@@ -1,0 +1,33 @@
+[
+  {
+    id: 2289,
+    sfAccountId: '0019D00000INToLQAX',
+    userId: '509b7c9b-21be-47f8-aafa-88f759f29878',
+    pgutid: null,
+    trackingId: '4d44dd6c-2eec-4a32-a5fc-85d89842a2d4',
+    firstName: 'jan',
+    lastName: 'test',
+    emailId: 'janicelim.yl@gmail.com',
+    phone: '92331050',
+    countryCode: '+65',
+    marketingConsent: 0,
+    status: 'Customer',
+    dob: 2022-01-01T16:00:00.000Z,
+    mortgageMember: 0,
+    pdpaConsent: 1,
+    sourceType: 'Agent',
+    sourceConverted: null,
+    source: null,
+    medium: null,
+    campaign: null,
+    content: null,
+    financialGoals: null,
+    isProfileEnabled: 1,
+    pgEmailId: null,
+    sourceSubType: 'Agent',
+    jointApplicantId: 9999,
+    relationshipMain: null,
+    createdAt: 2022-11-01T21:11:47.000Z,
+    updatedAt: 2023-05-29T01:54:08.000Z
+  }
+]

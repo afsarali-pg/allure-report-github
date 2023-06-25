@@ -1,0 +1,2 @@
+Inactive user : 0
+Inactivated current loan owner

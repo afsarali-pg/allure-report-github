@@ -1,0 +1,3 @@
+ Loan Created successfully ! 50085000003uvgFAAQ
+ caseId 50085000003uvgFAAQ
+ Doc Collection URL null
